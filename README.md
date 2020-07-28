@@ -1,2 +1,2 @@
-# C-22-Bouncy-Ball
-I made the bouncy ball. Here's my code.
+# staticSquare
+A static square made using Matter.js physics engine
